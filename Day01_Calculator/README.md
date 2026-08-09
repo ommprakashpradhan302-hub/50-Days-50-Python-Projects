@@ -24,24 +24,24 @@ The calculator can perform:
 - Basic arithmetic operators
 
 📂 Project Structure
-
+```
 Day-01-Simple-Calculator/
 │
 ├── calculator.py
 └── README.md
-
+```
 ▶️ How to Run
 
 Make sure Python 3 is installed on your computer.
 
 Open the terminal inside this project folder and run:
-
+```
 python calculator.py
-
+```
 Then enter the two numbers and choose an operation.
 
 💻 Example
-
+```python
 ====== SIMPLE CALCULATOR ======
 Enter first number: 10
 Enter second number: 5
@@ -53,9 +53,10 @@ Select operation:
 4. Division (/)
 
 Enter your choice (1/2/3/4): 1
-
+```
+```
 Result: 15.0
-
+```
 📚 What I Learned
 
 Through this project, I practiced:
