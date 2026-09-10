@@ -2,3 +2,4 @@ qrcode[pil]
 requests
 python-barcode
 pyPDF2
+pyautogui
