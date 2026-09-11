@@ -3,3 +3,5 @@ requests
 python-barcode
 pyPDF2
 pyautogui
+numpy
+opencv-python
