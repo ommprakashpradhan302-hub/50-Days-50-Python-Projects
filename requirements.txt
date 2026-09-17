@@ -6,3 +6,5 @@ pyautogui
 numpy
 opencv-python
 pyttsx3
+speech_recognition
+PyAudio
