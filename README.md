@@ -1,2 +1,2 @@
-# 50-Days-50-Python-Projects
-50 Days . 50 Python Mini Projects built using Python
+# 40-Days-40-Python-Projects
+40 Days . 40 Python Mini Projects built using Python
